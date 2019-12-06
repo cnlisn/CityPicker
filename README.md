@@ -17,13 +17,13 @@
 
 # Preview
 
-![gif](/img/screen.gif)
+![gif](img/screen.gif)
 
 
-![gif](/img/screen1.gif)
+![gif](img/screen1.gif)
 
 
-![gif](/img/screen2.gif)
+![gif](img/screen2.gif)
 
 
 # Usage
